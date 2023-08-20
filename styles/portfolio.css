@@ -1,0 +1,14 @@
+h1{
+    color: #000;
+    font-family:" playfair Display,serif";
+    font-weight: bold;
+    margin-top:0;
+    margin-bottom: 0.5 rem;
+    line-height: 1.2;
+}
+p{
+    font-family: "poppins",sanserif;
+    font-weight: normal;
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
